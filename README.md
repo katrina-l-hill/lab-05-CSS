@@ -16,9 +16,9 @@
             <li><a href="https://eden-brekke.github.io/vigilant-fortnight/">Eden Brekke</a></li>
             <li><a href="https://github.com/wildwoodwaltz">Tyler Egashira</a></li>
         </ul>
-        <h3 style="color: #fdffb6;">Table of Contents</h3>
+        <h3 style="color: #fdffb6;">Table of Contents (There's a link here. It's just that the text color is light :-)</h3>
         <ul>
-            <li><a href="#aboutme">About Me (There's a link here. It's just that the text color is light :-)</a></li>
+            <li><a href="#aboutme">About Me</a></li>
             <li>I like building miniature stores, houses, and the like :-)</li>
         
         </ul>
