@@ -1,23 +1,24 @@
 header {
-    background-color: #FFADAD;
+    color: #FFADAD;
 }
 
-#Team Members {
+h3 {
     color: #FFD6A5;  
 }
 
-#Table of Contents {
+Table of Contents {
     color: #FDFFB6;
 }
 
-#About Me {
+About Me {
     color: #CAFFBF;
 }
 
-#Contact Me {
+h4 {
     color: #BDB2FF;
 }
 
 body {
     background-color: #FFFFFC;
 }
+
